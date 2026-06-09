@@ -1,0 +1,1 @@
+import{t as e}from"./index-CfbwgPbl.js";var t=e();function n(){return(0,t.jsx)(`div`,{className:`p-8`,children:(0,t.jsx)(`h1`,{className:`text-2xl font-semibold`,children:`Timeline`})})}export{n as default};
