@@ -1,1 +1,0 @@
-import{t as e}from"./index-DauVtzO1.js";var t=e();function n(){return(0,t.jsx)(`h1`,{className:`p-8`,children:`Timeline`})}export{n as default};
